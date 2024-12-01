@@ -88,7 +88,7 @@ class _ReservationScreenState extends State<ReservationScreen> {
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(30),
                 ),
-                backgroundColor: Colors.blueAccent, // Correct property name
+                backgroundColor: Colors.blueAccent, 
                 shadowColor: Colors.blueGrey,
                 elevation: 5,
               ),
