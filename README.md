@@ -1,4 +1,4 @@
-# diff_time_zone
+# QuickSeat
 
 A new Flutter project.
 
