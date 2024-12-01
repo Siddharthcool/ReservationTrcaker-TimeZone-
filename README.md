@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+# For Accesing Main file
+
+lib -> main.dart.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
