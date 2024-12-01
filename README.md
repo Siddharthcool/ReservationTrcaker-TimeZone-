@@ -1,6 +1,10 @@
-# diff_time_zone
+# QuickSeat
 
 A new Flutter project.
+
+# For Accesing Main file
+
+lib -> main.dart.
 
 ## Getting Started
 
